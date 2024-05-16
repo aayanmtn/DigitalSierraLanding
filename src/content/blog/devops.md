@@ -3,7 +3,7 @@ draft: false
 title: "The Future of Software Development: Why DevOps is Revolutionizing the Way We Build"
 snippet: "Discover how DevOps is transforming software development, streamlining processes, and boosting team collaboration"
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
+    src: "https://www.dicoding.com/blog/wp-content/uploads/2020/06/tools-devops.png",
     alt: "DevOps Practices"
 }
 publishDate: "2022-11-08 11:39"
