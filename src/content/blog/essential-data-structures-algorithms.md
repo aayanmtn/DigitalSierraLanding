@@ -9,7 +9,7 @@ image: {
 publishDate: "2022-11-09 16:39"
 category: "AIOps"
 author: "Aayan Mateen
-tags: [Server, AI, DevOps]
+tags: [prod, ai, devops]
 ---
 ## Introduction
 As an agency, you're constantly looking for ways to stay ahead of the curve and deliver exceptional results to your clients. In today's
