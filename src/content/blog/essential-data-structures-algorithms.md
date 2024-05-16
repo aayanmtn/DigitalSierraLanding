@@ -8,7 +8,7 @@ image: {
 }
 publishDate: "2022-11-09 16:39"
 category: "AIOps"
-author: "Aayan Mateen
+author: "Aayan Mateen"
 tags: [prod, ai, devops]
 ---
 ## Introduction
