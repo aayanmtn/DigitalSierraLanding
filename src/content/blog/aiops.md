@@ -3,7 +3,7 @@ draft: false
 title: " Unlocking the Power of AIOPS: How Artificial Intelligence and Operations Can Transform Your Agency's Efficiency and Innovation"
 snippet: "AIOps leverages AI and machine learning to automate and enhance IT operations, improving efficiency and reliability."
 image: {
-    src: "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?&fit=crop&w=430&h=240](https://www.moogsoft.com/wp-content/uploads/2019/10/aiops_featured.jpg",
+    src: "https://www.purshology.com/wp-content/uploads/2021/06/AIOps-810-2-1024x683.jpg",
     alt: "data structures & algorithms"
 }
 publishDate: "2022-11-09 16:39"
